@@ -1,0 +1,19 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 4
+Nombre del Cliente: Andres
+Direccion del Cliente: circunvalar
+
+Productos: 
+corral pollo ,con cebolla ,con queso mozzarella ,con queso americano --------------------- 21000
+
+
+Costo Neto --------------------- 21000
+IVA (19%) --------------------- 3990 
+------------------------------------------ 
+Costo Total --------------------- 24990
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

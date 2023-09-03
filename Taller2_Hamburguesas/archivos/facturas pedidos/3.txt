@@ -1,0 +1,24 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 3
+Nombre del Cliente: Luis
+Direccion del Cliente: universidades
+
+Productos: 
+combo especial --------------------- 32085
+combo corral queso --------------------- 23850
+corral queso ,sin lechuga ,sin tomate ,sin cebolla ,sin huevo --------------------- 16000
+corral queso ,con lechuga ,con tomate ,con huevo ,con suero costeño --------------------- 23500
+combo corral queso --------------------- 23850
+agua cristal sin gas ,sin cebolla ,sin queso mozzarella ,con cebolla ,con suero costeño --------------------- 9000
+
+
+Costo Neto --------------------- 128285
+IVA (19%) --------------------- 24374 
+------------------------------------------ 
+Costo Total --------------------- 152659
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

@@ -1,0 +1,19 @@
+corral;14000;560 calorías
+corral queso;16000;620 calorías
+corral pollo;15000;590 calorías
+corralita;13000;520 calorías
+todoterreno;25000;980 calorías
+1/2 libra;25000;990 calorías
+especial;24000;920 calorías
+casera;23000;890 calorías
+mexicana;22000;850 calorías
+criolla;22000;860 calorías
+costeña;20000;770 calorías
+hawaiana;20000;780 calorías
+wrap de pollo;15000;590 calorías
+wrap de lomo;22000;860 calorías
+ensalada mexicana;20900;420 calorías
+papas medianas;5500;230 calorías
+papas grandes;6900;290 calorías
+papas en casco medianas;5500;230 calorías
+papas en casco grandes;6900;290 calorías

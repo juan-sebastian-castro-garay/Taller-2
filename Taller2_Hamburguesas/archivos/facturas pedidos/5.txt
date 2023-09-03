@@ -1,0 +1,20 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 5
+Nombre del Cliente: Andy
+Direccion del Cliente: falso # falso-falso
+
+Productos: 
+combo corral --------------------- 22050
+gaseosa ,con papa callejera ,con cebolla --------------------- 8000
+
+
+Costo Neto --------------------- 30050
+IVA (19%) --------------------- 5709 
+------------------------------------------ 
+Costo Total --------------------- 35759
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

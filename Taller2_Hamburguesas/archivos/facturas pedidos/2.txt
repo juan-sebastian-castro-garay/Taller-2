@@ -1,0 +1,22 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 2
+Nombre del Cliente: Isabella
+Direccion del Cliente: Carrera imag 23 apto alto
+
+Productos: 
+combo corral --------------------- 22050
+combo corral --------------------- 22050
+combo corral --------------------- 22050
+corral queso ,sin cebolla ,sin cebolla ,sin cebolla ,sin cebolla --------------------- 16000
+
+
+Costo Neto --------------------- 82150
+IVA (19%) --------------------- 15608 
+------------------------------------------ 
+Costo Total --------------------- 97758
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

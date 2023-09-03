@@ -1,0 +1,21 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 7
+Nombre del Cliente: 6
+Direccion del Cliente: sddf
+
+Productos: 
+combo corral queso --------------------- 23850
+combo todoterreno --------------------- 34317
+corral pollo --------------------- 15000
+
+
+Costo Neto --------------------- 73167
+IVA (19%) --------------------- 13901 
+------------------------------------------ 
+Costo Total --------------------- 87068
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

@@ -1,0 +1,22 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 1
+Nombre del Cliente: Juan
+Direccion del Cliente: Calle cota 
+
+Productos: 
+combo corral --------------------- 22050
+-----------930 calorias
+cerveza artesanal --------------------- 7000
+-----------150 calorias
+
+
+Costo Neto --------------------- 29050
+IVA (19%) --------------------- 5519 
+------------------------------------------ 
+Costo Total --------------------- 34569
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 

@@ -1,0 +1,21 @@
+------------------------------------------------
+          FACTURA DE COMPRA
+
+ID del Pedido: 1
+Nombre del Cliente: Juan Sebastian
+Direccion del Cliente: Calle falsa no 3 78
+
+Productos: 
+combo corral --------------------- 22050
+combo corral --------------------- 22050
+combo corral --------------------- 22050
+
+
+Costo Neto --------------------- 66150
+IVA (19%) --------------------- 12568 
+------------------------------------------ 
+Costo Total --------------------- 78718
+
+¡Gracias por su compra!
+ 
+------------------------------------------ 
